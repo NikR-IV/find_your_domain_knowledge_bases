@@ -1,4 +1,7 @@
 # Find Your Domain Knowledge Bases
+
+A simple collection of domain-specific knowledge bases. Find your KB and integrate it into your system!
+
 ## Medical, Clinical, Biomedical, Biotechnology
 ### NCBI (National Center for Biotechnology Information)
 The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.
